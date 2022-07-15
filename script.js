@@ -1,7 +1,6 @@
 const espaceMessage = document.getElementById("message");
 const bouton = document.getElementById("bouton");
 const ageInput = document.getElementById("age");
-let age;
 let ageMajorite = 18;
 function valider(){
   espaceMessage.innerHTML = "Vous êtes autorisé à entrer🎖️🎖️🎖️";
